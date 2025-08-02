@@ -1,0 +1,77 @@
+--- PARSED RESUME SECTIONS ---
+
+SUMMARY:
+Experienced software developer with 5+ years in web development specializing in creating robust and scalable applications. Proven track record of delivering high-quality solutions on time and within budget. Strong problem-solving skills and ability to work effectively in team environments.
+
+SKILLS:
+1. JavaScript
+2. React
+3. Node.js
+4. MongoDB
+5. Express
+6. TypeScript
+7. GraphQL
+8. AWS
+9. Docker
+10. Kubernetes
+11. CI/CD
+12. Git
+13. Agile Methodologies
+14. Project Management
+15. Technical Leadership
+
+EXPERIENCE:
+
+Position 1:
+Title: Senior Full Stack Developer
+Company & Date: ABC Technologies Inc.
+Responsibilities:
+  - Led development of enterprise e-commerce platform serving 50,000+ daily users
+  - Implemented CI/CD pipeline reducing deployment time by 70%
+  - Architected microservices infrastructure improving system scalability
+  - Mentored junior developers and conducted code reviews
+
+Position 2:
+Title: Frontend Developer
+Company & Date: XYZ Solutions
+Responsibilities:
+  - Developed responsive web applications using React and Redux
+  - Collaborated with UX designers to implement user-friendly interfaces
+  - Reduced application load time by 40% through code optimization
+  - Participated in agile development processes and sprint planning
+
+EDUCATION:
+
+Education 1:
+Degree: Master of Science in Computer Engineering
+Institution: Stanford University
+Year: 2016-2018
+Details: • GPA: 3.8/4.0
+• Thesis: "Scalable Architecture for Distributed Systems"
+
+Education 2:
+Degree: Bachelor of Science in Computer Science
+Institution: MIT
+Year: 2012-2016
+Details: • Dean's List: 2013-2016
+• Relevant Coursework: Data Structures, Algorithms, Database Systems
+
+LANGUAGES:
+1. English (Native)
+2. Spanish (Fluent)
+3. French (Intermediate)
+
+CERTIFICATIONS:
+1. AWS Certified Solutions Architect
+2. Google Cloud Professional Developer
+3. MongoDB Certified Developer
+
+PROJECTS:
+1. Open Source Contribution - React Component Library
+2. Developed and maintained 15+ reusable UI components
+3. Achieved 500+ GitHub stars and 100+ forks
+4. Personal Blog Platform
+5. Built full-stack application using MERN stack
+6. Implemented authentication, authorization, and content management features
+
+AWARDS:

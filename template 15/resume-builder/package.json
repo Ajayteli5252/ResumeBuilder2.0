@@ -1,0 +1,43 @@
+{
+  "name": "resume-builder",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server.js",
+    "dev:server": "nodemon server.js",
+    "dev:full": "concurrently \"npm run dev\" \"npm run dev:server\""
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "mongoose": "^7.5.0",
+    "multer": "^2.0.2",
+    "openai": "^5.11.0",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.3.93",
+    "pdfkit": "^0.13.0",
+    "prop-types": "^15.8.1",
+    "puppeteer": "^24.14.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.7.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "concurrently": "^8.2.1",
+    "nodemon": "^3.0.1",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9"
+  }
+}
